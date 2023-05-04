@@ -627,7 +627,7 @@
         {
          "columns":73,
          "firstgid":2956,
-         "image":"..\/wa-eiffage-flat\/tilesets\/Background.png",
+         "image":"tilesets\/Background.png",
          "imageheight":1633,
          "imagewidth":2336,
          "margin":0,
@@ -640,7 +640,7 @@
         {
          "columns":73,
          "firstgid":6679,
-         "image":"..\/wa-eiffage-flat\/tilesets\/Items.png",
+         "image":"tilesets\/Items.png",
          "imageheight":1633,
          "imagewidth":2336,
          "margin":0,
